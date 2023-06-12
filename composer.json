@@ -11,7 +11,8 @@
     "require-dev": {
       "roave/security-advisories": "dev-latest",
       "mockery/mockery": "^1.0",
-      "phpunit/phpunit": "^7.5|^8|^9"
+      "phpunit/phpunit": "^7.5|^8|^9",
+        "rector/rector": "^0.17.0"
     },
     "extra": {
         "laravel": {
